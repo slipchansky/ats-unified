@@ -1,0 +1,9 @@
+{
+  "categories" : [ {
+    "id" : "knowledge_category_1",
+    "name" : "General"
+  }, {
+    "id" : "knowledge_category_1",
+    "name" : "Genesys Knowledge Center Server"
+  } ]
+}

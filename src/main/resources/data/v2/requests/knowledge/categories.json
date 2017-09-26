@@ -1,0 +1,15 @@
+{
+  "categories" : [ {
+    "id" : "knowledge_category_1",
+    "name" : "General"
+  }, {
+    "id" : "knowledge_category_2",
+    "name" : "Genesys Knowledge Center Server"
+  }, {
+    "id" : "knowledge_category_3",
+    "name" : "Configuration"
+  }, {
+    "id" : "knowledge_category_4",
+    "name" : "Genesys Knowledge Center CMS"
+  } ]
+}

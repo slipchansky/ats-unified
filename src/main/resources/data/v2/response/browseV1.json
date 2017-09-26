@@ -1,0 +1,108 @@
+{
+	"documents" : [
+			{
+				"categories" : [ "g2" ],
+				"created" : "2017-04-10 10:54:35",
+				"modified" : "2017-04-10 10:54:35",
+				"recently" : {
+					"created" : true,
+					"modified" : false
+				},
+				"score" : 1.7688121,
+				"confidence" : 1.0,
+				"id" : "@groupon_202",
+				"author" : null,
+				"customFields" : {
+					"numField" : 5.0,
+					"strField" : "str1",
+					"dateField" : "2014-09-01 00:00:00"
+				},
+				"initiator" : null,
+				"kbId" : "groupon",
+				"language" : "en_US",
+				"media" : [ "email" ],
+				"subTenantId" : "default",
+				"tags" : [],
+				"type" : "QNA",
+				"url" : null,
+				"question" : "Do I need to call to confirm the restaurant reservation I made using Groupon Reserve?",
+				"answer" : "There is no need to call ahead. Once you click \"Book Reservation,\" your reservation information will be sent to the restaurant for you. Just arrive at the restaurant on time for your reservation, make sure your server knows you made the reservation with Groupon Reserve, and at the end of the meal your bill will show the Reserve discount. We recommend printing your confirmation and having it handy, just in case.\n",
+				"relatedCategories" : [ {
+					"id" : "g2",
+					"name" : "g2",
+					"kbId" : "groupon",
+					"path" : "groupon / g2",
+					"count" : 1
+				} ]
+			},
+			{
+				"categories" : [ "g1" ],
+				"created" : "2017-04-10 10:54:35",
+				"modified" : "2017-04-10 10:54:39",
+				"recently" : {
+					"created" : true,
+					"modified" : false
+				},
+				"score" : 1.7688121,
+				"confidence" : 1.0,
+				"id" : "groupon_181",
+				"author" : null,
+				"customFields" : {
+					"numField" : 5.0,
+					"strField" : "str1",
+					"dateField" : "2014-09-01 00:00:00"
+				},
+				"initiator" : null,
+				"kbId" : "groupon",
+				"language" : "en_US",
+				"media" : [ "email", "chat" ],
+				"subTenantId" : "default",
+				"tags" : [],
+				"type" : "QNA",
+				"url" : null,
+				"question" : "I have a Groupon account I'd like to close",
+				"answer" : "You can unsubscribe from Groupon emails by clicking the link at the bottom of your daily email, or by clicking �Unsubscribe from all Groupon emails�  on the My Email Subscriptions page. To remove credit cards from your account, head to My Account and then Credit Cards and click \"Remove\" next to your card. We can permanently delete your account on request.\n",
+				"relatedCategories" : [ {
+					"id" : "g1",
+					"name" : "first_category",
+					"kbId" : "groupon",
+					"path" : "groupon / first_category",
+					"count" : 1
+				} ]
+			} ],
+	"count" : 2,
+	"categories" : [ {
+		"id" : "g2",
+		"name" : "g2",
+		"kbId" : "groupon",
+		"count" : 1
+	}, {
+		"id" : "g1",
+		"name" : "first_category",
+		"kbId" : "groupon",
+		"count" : 1
+	} ],
+	"relatedCategories" : [ {
+		"kbId" : "groupon",
+		"count" : 0,
+		"categories" : [ {
+			"id" : "g2",
+			"kbId" : "groupon",
+			"name" : "g2",
+			"path" : "groupon / g2",
+			"count" : 1,
+			"childrenCategories" : []
+		}, {
+			"id" : "g1",
+			"kbId" : "groupon",
+			"name" : "first_category",
+			"path" : "groupon / first_category",
+			"count" : 1,
+			"childrenCategories" : []
+		} ]
+	} ],
+	"page" : {
+		"from" : 0,
+		"size" : 2
+	}
+}

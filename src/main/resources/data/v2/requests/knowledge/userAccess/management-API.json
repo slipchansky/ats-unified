@@ -1,0 +1,13 @@
+{
+  "categories" : [ {
+    "id" : "c1",
+    "name" : "category 1"
+  }, {
+    "id" : "c11",
+    "name" : "category 1/1",
+    "parentId" : "c1"
+  }, {
+    "id" : "c3",
+    "name" : "category 3"
+  } ]
+}

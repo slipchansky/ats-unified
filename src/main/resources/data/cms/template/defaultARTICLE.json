@@ -1,0 +1,22 @@
+{
+  "id": "articleeditable_1",
+  "name": "Editable Article",
+  "description": "Editable Article template",
+  "type": "ARTICLE",
+  "enabled": true,
+  "created": "2017-08-09 10:26:44",
+  "modified": "2017-08-09 10:26:44",
+  "sections": [
+    {
+      "id": "description",
+      "name": "description",
+      "description": "main section of article content",
+      "mandatory": true,
+      "visibility": {
+        "skillAccess": false,
+        "skills": [],
+        "public": true
+      }
+    }
+  ]
+}

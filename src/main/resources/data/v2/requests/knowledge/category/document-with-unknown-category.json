@@ -1,0 +1,12 @@
+{
+  "documents" : [ {
+    "id" : "doc01",
+    "type" : "FAQ",
+    "title" : "doc title",
+    "media" : [ "phone", "web" ],
+    "content" : {
+      "answer" : "article description content"
+    },
+    "categories" : [ "knowledge_category_unknown" ]
+  } ]
+}

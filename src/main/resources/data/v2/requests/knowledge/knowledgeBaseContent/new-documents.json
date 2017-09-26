@@ -1,0 +1,21 @@
+{
+  "documents" : [ {
+    "id" : "doc02",
+    "type" : "FAQ",
+    "title" : "new article",
+    "media" : [],
+    "content" : {
+      "answer" : "article description content"
+    },
+    "categories" : [ "knowledge_category_1" ]
+  }, {
+    "id" : "doc03",
+    "type" : "FAQ",
+    "title" : "new article 2",
+    "media" : [],
+    "content" : {
+      "answer" : "article description content"
+    },
+    "categories" : [ "knowledge_category_2" ]
+  } ]
+}

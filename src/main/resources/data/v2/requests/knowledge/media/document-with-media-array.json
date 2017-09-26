@@ -1,0 +1,39 @@
+{
+  "documents" : [ {
+    "id" : "doc01",
+    "type" : "FAQ",
+    "title" : "article title",
+    "media" : [ "phone", "web", "email" ],
+    "content" : {
+      "answer" : "article description content"
+    },
+    "categories" : [ "knowledge_category_unknown" ]
+  }, {
+      "id" : "doc02",
+      "type" : "FAQ",
+      "title" : "article title",
+      "media" : ["voice"],
+      "content" : {
+        "answer" : "article description content"
+      },
+      "categories" : [ "knowledge_category_unknown" ]
+  }, {
+    "id" : "doc03",
+    "type" : "FAQ",
+    "title" : "article title",
+    "media" : ["sms"],
+    "content" : {
+      "answer" : "article description content"
+    },
+    "categories" : [ "knowledge_category_unknown" ]
+  }, {
+    "id" : "doc04",
+    "type" : "FAQ",
+    "title" : "article title",
+    "media" : ["sms", "email"],
+    "content" : {
+      "answer" : "article description content"
+    },
+    "categories" : [ "knowledge_category_unknown" ]
+  } ]
+}

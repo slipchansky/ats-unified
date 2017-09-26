@@ -1,0 +1,12 @@
+{
+  "documents" : [ {
+    "id" : "doc01",
+    "type" : "ARTICLE",
+    "title" : "article title",
+    "media" : [ "phone", "web" ],
+    "content" : {
+      "description" : "article description content"
+    },
+    "categories" : [ "knowledge_category_unknown" ]
+  } ]
+}

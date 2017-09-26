@@ -1,0 +1,73 @@
+{
+  "documents" : [ {
+    "id" : "knowledge_faq_1",
+    "type" : "FAQ",
+    "title" : "What Is Genesys Knowledge Center?",
+    "summary" : "",
+    "author" : "gks_super",
+    "content" : {
+      "answer" : "Genesys Knowledge Center allows you to make the best use of your enterprise knowledge by capturing, storing, and distributing it wherever it is needed.Built by Genesys, this product seamlessly integrates to various Genesys products to provide configuration via Genesys Administrator, reporting and basic analytics via Pulse and agent desktop integration to Workspace Desktop Edition"
+    },
+    "categories" : [ "knowledge_category_1" ]
+  }, {
+    "id" : "knowledge_faq_2",
+    "type" : "FAQ",
+    "title" : "What components are included in Genesys Knowledge Center?",
+    "summary" : "",
+    "author" : "gks_super",
+    "content" : {
+      "answer" : "Knowledge Center is made up of several elements, all of which work together to convert knowledge into answers. It includes the following components:\n- Knowledge Center Server -- the heart of Genesys Knowledge Center, this server indexes all of your knowledge and uses it to answer your questions.\n- Knowledge Center CMS -- this optional Content Management System gives you more control over the organization and maintenance of your stored knowledge. It offers trouble-free integration with other Genesys components.\n- Knowledge Center Plugin for Workspace Desktop Edition -- lets your agents use the power of Genesys Knowledge Center from within their Genesys Workspace.\n- Knowledge Center Plugin for Pulse -- helps you stay up to date on what knowledge is being used and how it is being used within your enterprise.\n- Knowledge Center Plugin for Administrator -- makes it easy to manage the knowledge bases contained in your Genesys Knowledge Center Server."
+    },
+    "categories" : [ "knowledge_category_1" ]
+  }, {
+    "id" : "knowledge_faq_3",
+    "type" : "FAQ",
+    "title" : "What is the difference between the Knowledge Cluster and the Knowledge Server?",
+    "summary" : "",
+    "author" : "gks_super",
+    "content" : {
+      "answer" : "Each Genesys Knowledge Center Server represents a single node in the Genesys Knowledge Cluster. You can group multiple nodes or servers into a cluster to perform better against higher traffic volume."
+    },
+    "categories" : [ "knowledge_category_2" ]
+  }, {
+    "id" : "knowledge_faq_4",
+    "type" : "FAQ",
+    "title" : "How do I configure two Knowledge Servers into a cluster?",
+    "summary" : "",
+    "author" : "gks_super",
+    "content" : {
+      "answer" : "You can add a Genesys Knowledge Center Server to a Knowledge Center Cluster by configuring it with a connection to the cluster. Every server within a cluster uses the same set of knowledge bases and is able to handle any question directed to these knowledge bases. For information on how to configure the servers into a cluster, please refer to our online Deployment Guide."
+    },
+    "categories" : [ "knowledge_category_2", "knowledge_category_3" ]
+  }, {
+    "id" : "knowledge_faq_5",
+    "type" : "FAQ",
+    "title" : "Why do I need the Genesys Knowledge Center CMS?",
+    "summary" : "",
+    "author" : "gks_super",
+    "content" : {
+      "answer" : "The Genesys Knowledge Center CMS is an effortless way to author your content, providing access management, versioning, and tagging. It is easy to use and provides centralized storage of your content."
+    },
+    "categories" : [ "knowledge_category_4" ]
+  }, {
+    "id" : "knowledge_faq_6",
+    "type" : "FAQ",
+    "title" : "Can I use my own CMS system instead of the Genesys Knowledge Center CMS?",
+    "summary" : "",
+    "author" : "gks_super",
+    "content" : {
+      "answer" : "The Genesys Knowledge Center CMS is optional. Although it provides effortless integration with the other components of Knowledge Center, and includes many standard CMS functionalities, we know that you may have invested a lot in tuning your corporate CMS so that it perfectly suits your needs. That is why we have exposed a RESTful Management API as an easy way for you to index information from your CMS system directly into your Knowledge Center Server. This will allow you to use all of the knowledge retrieval capabilities delivered by Genesys Knowledge Center while preserving the content within your existing CMS system."
+    },
+    "categories" : [ "knowledge_category_1", "knowledge_category_4", "knowledge_category_2" ]
+  }, {
+    "id" : "knowledge_faq_7",
+    "type" : "FAQ",
+    "title" : "What is a knowledge base?",
+    "summary" : "",
+    "author" : "gks_super",
+    "content" : {
+      "answer" : "A knowledge base is an organized collection of related information that includes taxonomic data, allowing users to find the information they need by asking questions."
+    },
+    "categories" : [ "knowledge_category_1" ]
+  } ]
+}

@@ -1,0 +1,9 @@
+{
+  "query" : "",
+  "filters" : null,
+  "sorting" : null,
+  "tags" : null,
+  "media" : "any",
+  "categories" : null,
+  "knowledgebases" : [ "testKB" ]
+}

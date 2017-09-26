@@ -1,0 +1,15 @@
+{
+	  "documents" : [ {
+	    "id" : "doc1",
+	    "type" : "ARTICLE",
+	    "title" : "article title",
+	    "url" : "http://knowledge.com/article1",
+	    "tags" : [ "tag1", "tag2" ],
+	    "media" : [ "phone", "web" ],
+	    "content" : {
+	      "description" : "article description content"
+	    },
+	    "categories" : [ "c1", "c2", "c3" ]
+	    }
+	  ]
+}

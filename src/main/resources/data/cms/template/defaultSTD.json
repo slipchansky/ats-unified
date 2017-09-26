@@ -1,0 +1,22 @@
+{
+  "id": "stdresponseeditable_1",
+  "name": "Editable Std.response",
+  "description": "Editable Standard response",
+  "type": "STDRESPONSE",
+  "enabled": true,
+  "created": "2017-08-09 10:26:44",
+  "modified": "2017-08-09 10:26:44",
+  "sections": [
+    {
+      "id": "default",
+      "name": "default",
+      "description": "default content section",
+      "mandatory": true,
+      "visibility": {
+        "skillAccess": false,
+        "skills": [],
+        "public": true
+      }
+    }
+  ]
+}

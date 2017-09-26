@@ -1,0 +1,11 @@
+{
+  "categories" : [ {
+    "id" : "knowledge_category_1",
+    "name" : "General",
+    "parentId" : "knowledge_category_2"
+  }, {
+    "id" : "knowledge_category_2",
+    "name" : "General",
+    "parentId" : "knowledge_category_1"
+  } ]
+}

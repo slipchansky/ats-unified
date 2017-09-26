@@ -1,0 +1,63 @@
+{
+  "categories" : [ {
+    "id" : "knowledge_category_1",
+    "name" : "General",
+    "parentId" : null
+  }, {
+    "id" : "knowledge_category_2",
+    "name" : "Genesys Knowledge Center Server",
+    "parentId" : null
+  }, {
+    "id" : "knowledge_category_3",
+    "name" : "Configuration",
+    "parentId" : null
+  }, {
+    "id" : "knowledge_category_4",
+    "name" : "Genesys Knowledge Center CMS",
+    "parentId" : null
+  }, {
+    "id" : "knowledge_category_5",
+    "name" : "Administrator for Genesys Knowledge Center",
+    "parentId" : null
+  }, {
+    "id" : "knowledge_category_6",
+    "name" : "Sizing",
+    "parentId" : null
+  }, {
+    "id" : "knowledge_category_7",
+    "name" : "Genesys Knowledge Center Pulse Plugin",
+    "parentId" : null
+  }, {
+    "id" : "knowledge_category_8",
+    "name" : "History",
+    "parentId" : null
+  }, {
+    "id" : "knowledge_category_9",
+    "name" : "Feedback",
+    "parentId" : null
+  }, {
+    "id" : "knowledge_category_10",
+    "name" : "Genesys Knowledge Center Workspace Plugin",
+    "parentId" : null
+  }, {
+    "id" : "knowledge_category_11",
+    "name" : "Integration",
+    "parentId" : null
+  }, {
+    "id" : "knowledge_category_12",
+    "name" : "Genesys Web Engagement",
+    "parentId" : null
+  }, {
+    "id" : "knowledge_category_13",
+    "name" : "Languages",
+    "parentId" : null
+  }, {
+    "id" : "knowledge_category_14",
+    "name" : "Archiving",
+    "parentId" : null
+  }, {
+    "id" : "knowledge_category_15",
+    "name" : "Roles",
+    "parentId" : null
+  } ]
+}

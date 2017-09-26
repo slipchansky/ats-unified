@@ -1,0 +1,32 @@
+{
+  "status" : "SUCCESS",
+  "data" : [ {
+    "kbId" : "groupon",
+    "count" : 0,
+    "categories" : [ {
+      "id" : "c1",
+      "kbId" : "groupon",
+      "name" : "category 1",
+      "path" : "groupon / category 1",
+      "count" : 14,
+      "childrenCategories" : [
+          {
+	      "id" : "c4",
+	      "kbId" : "groupon",
+	      "name" : "category 4",
+	      "path" : "groupon / category 1 / category 4",
+	      "count" : 4,
+	      "childrenCategories" : [ ]
+	      }
+      ]
+    }, {
+      "id" : "c3",
+      "kbId" : "groupon",
+      "name" : "category 3",
+      "path" : "groupon / category 3",
+      "count" : 14,
+      "childrenCategories" : [ ]
+    } ]
+  } ],
+  "sessionId" : "60428559-92d6-4a49-84e2-e370aef76641"
+}

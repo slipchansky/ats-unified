@@ -1,0 +1,26 @@
+{
+	"id" : "multi_lang",
+	"subTenantId" : "default",
+	"type" : "QNA",
+	"access" : {
+		"all" : true,
+		"skills" : []
+	},
+	"languages" : {
+		"en" : {
+			"name" : "Multi Language KB",
+			"description" : "",
+			"defaultFilterConditions" : [],
+			"schema" : "nlp",
+			"locales" : [ {
+				"id" : "us",
+				"name" : "United States",
+				"locale" : "en_US"
+			}, {
+				"id" : "ca",
+				"name" : "Canada",
+				"locale" : "en-ca"
+			} ]
+		}
+	}
+}

@@ -1,0 +1,24 @@
+{
+  "categories" : [ {
+    "id" : "gbank_category_1",
+    "name" : "Account information"
+  }, {
+    "id" : "gbank_category_2",
+    "name" : "Investor relations"
+  }, {
+    "id" : "gbank_category_3",
+    "name" : "Pricing and rates"
+  }, {
+    "id" : "gbank_category_4",
+    "name" : "Overdraft services"
+  }, {
+    "id" : "gbank_category_5",
+    "name" : "Managing your accounts"
+  }, {
+    "id" : "gbank_category_6",
+    "name" : "Facts about the corporation"
+  }, {
+    "id" : "gbank_category_7",
+    "name" : "Retirement services"
+  } ]
+}

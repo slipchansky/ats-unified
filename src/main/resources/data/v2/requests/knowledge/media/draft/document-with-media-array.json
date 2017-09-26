@@ -1,0 +1,39 @@
+{
+  "documents" : [ {
+    "id" : "doc01",
+    "type" : "ARTICLE",
+    "title" : "article title",
+    "media" : [ "phone", "web", "email" ],
+    "content" : {
+      "description" : "article description content"
+    },
+    "categories" : [ "knowledge_category_unknown" ]
+  }, {
+      "id" : "doc02",
+      "type" : "ARTICLE",
+      "title" : "article title",
+      "media" : ["voice"],
+      "content" : {
+        "description" : "article description content"
+      },
+      "categories" : [ "knowledge_category_unknown" ]
+  }, {
+    "id" : "doc03",
+    "type" : "ARTICLE",
+    "title" : "article title",
+    "media" : ["sms"],
+    "content" : {
+      "description" : "article description content"
+    },
+    "categories" : [ "knowledge_category_unknown" ]
+  }, {
+    "id" : "doc04",
+    "type" : "ARTICLE",
+    "title" : "article title",
+    "media" : ["sms", "email"],
+    "content" : {
+      "description" : "article description content"
+    },
+    "categories" : [ "knowledge_category_unknown" ]
+  } ]
+}

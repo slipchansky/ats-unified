@@ -1,0 +1,22 @@
+{
+  "id": "faqeditable_1",
+  "name": "Editable FAQ",
+  "description": "Editable FAQ template",
+  "type": "FAQ",
+  "enabled": true,
+  "created": "2017-08-09 10:26:44",
+  "modified": "2017-08-09 10:26:44",
+  "sections": [
+    {
+      "id": "answer",
+      "name": "answer",
+      "description": "main section of FAQ content",
+      "mandatory": true,
+      "visibility": {
+        "skillAccess": false,
+        "skills": [],
+        "public": true
+      }
+    }
+  ]
+}

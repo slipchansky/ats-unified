@@ -1,0 +1,40 @@
+{
+  "id" : "testucs",
+  "tenantId" : 1,
+  "name" : "testUCS",
+  "type" : "STDRESPONSE",
+  "description" : "test kbs",
+  "customFields" : [ ],
+  "mediaTypes" : ["any"],
+  "languages" : ["en"],
+  "defaultLang" : "en",
+  "access" : {
+    "all" : true,
+    "skills" : [ ]
+  },
+  "active" : true,
+  "external" : false,
+  "apublic" : true,
+  "feedbackType" : "NONE",
+  "behavior" : {
+    "faq" : {
+      "trendingPeriodInDays" : 30,
+      "numberOfAnswersInPreConfidenceSelection" : 10,
+      "numberOfAnswers" : 3,
+      "outOfDomain" : 0.5,
+      "newSignPeriod" : 1,
+      "modifiedSignPeriod" : 1
+    },
+    "index" : {
+      "numberOfReplicas" : 1,
+      "numberOfShards" : 1
+    }
+  },
+  "synchronizeOptions" : {
+    "schedule" : "0 0 0/1 * * ?",
+    "expression" : "hourly",
+    "schedulerOn" : "true",
+    "typeExport" : "DOC_WO_ATTACH",
+    "lastLang" : [ "en" ]
+  }
+}
